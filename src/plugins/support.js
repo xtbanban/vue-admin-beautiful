@@ -1,4 +1,4 @@
-import { MessageBox } from "element-ui";
+/*import { MessageBox } from "element-ui";
 
 if (!!window.ActiveXObject || "ActiveXObject" in window) {
   MessageBox({
@@ -13,4 +13,4 @@ if (!!window.ActiveXObject || "ActiveXObject" in window) {
     closeOnHashChange: false,
     dangerouslyUseHTMLString: true,
   });
-}
+}*/
